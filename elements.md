@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Elements
+description: Explore Science
+image: assets/images/pic12.jpg
 nav-menu: true
 ---
 
