@@ -6,11 +6,11 @@ description: Debugging is twice as hard as writing the code in the first place.T
 baseurl: "/commandline" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
+street_address: Gurukul, Sikar Road
+city: Jaipur
+state: Rajasthan
+zip_code: 736146
+country: India
 phone: +91 6295657810
 
 # homepage tiles
