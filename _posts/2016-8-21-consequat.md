@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Consequat
-description: Ipsum dolor sit amet
+number: 2
+description: Gunjan Paul is designer of commandline
 image: assets/images/pic05.jpg
 ---
 
