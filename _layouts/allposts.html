@@ -4,6 +4,13 @@
     html5up.net | @ajlkn
     Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
   -->
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+
+<!-- jQuery Modal -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+  </head>
 <html>
   <style>
     @import url('https://fonts.googleapis.com/css?family=Heebo:400,700|Open+Sans:400,700');
@@ -234,7 +241,11 @@ a {
 	  {% if post.title != 404 %}
   <div class="card-grid-space">
     <div class="num">{{ post.number }}</div>
-    <a class="card" href="https://codetheweb.blog/2017/10/06/html-syntax/" style="--bg-img: url({{ site.baseurl }}/{{ post.image }})">
+    <div id="ex1" class="modal" style="background-color: black;">
+      <p>{{ post.content }}</p>
+      <!-- <a href="#" rel="modal:close">Close</a> -->
+    </div>
+    <a class="card" href="#ex1" rel="modal:open" style="--bg-img: url({{ site.baseurl }}/{{ post.image }})">
       <div>
         <h1>{{ post.title }}</h1>
         <p>{{ post.description }}</p>
