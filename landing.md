@@ -6,6 +6,7 @@ image: assets/images/pic07.jpg
 nav-menu: true
 ---
 
+
 <!-- Main -->
 <div id="main">
 
