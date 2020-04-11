@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>SPEC INDIA offers a range of enterprise-level business intelligence and analytics solutions that help you see you beyond the data. Our decades-long experience in data-centric solutions helps companies to make most of the data, empowering businesses to improve the decision-making process based on the intelligent interpretation of data.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Contact Us</a></li>
 				</ul>
 			</div>
 		</div>
@@ -48,7 +48,7 @@ nav-menu: true
 				</header>
 				<p>Owing to its flexibility and simplicity, Python has emerged as the first choice of developers and top brands to build dynamic web applications, data science applications, AI & machine learning projects, and next-gen digital products. With over 30 years of experience in delivering best-in-class digital solutions, we are committed to transforming your vision into accomplished business goals using modern technologies.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Contact Us</a></li>
 				</ul>
 			</div>
 		</div>
@@ -64,7 +64,7 @@ nav-menu: true
 				</header>
 				<p>Powered by Google, Flutter is open-source mobile app development framework to build native-like, flexible, and graphically-enhanced cross-platform apps for web, mobile, and desktop. We, at SPEC INDIA, keep ourselves updated with every latest technology and modern tools with an aim to offer seamless, scalable, and secure apps. Our dedicated flutter developers keep a tab on current trends in Flutter framework to never miss out on an opportunity to deliver the first-rate user experience.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Contact Us</a></li>
 				</ul>
 			</div>
 		</div>
@@ -80,7 +80,7 @@ nav-menu: true
 				</header>
 				<p>We, at Command Line, have proven experience in delivering 365x24x7 SLA driven software maintenance and support services, which are quality and commitment focused, to a wide range of clientele executing a diverse range of software business solutions.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Contact Us</a></li>
 				</ul>
 			</div>
 		</div>
