@@ -23,14 +23,14 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/BI.png %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/BI.png %}" alt="" style="box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border-radius: 25px;" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Business Intelligence And Analytics Services</h3>
 				</header>
-				<p>SPEC INDIA offers a range of enterprise-level business intelligence and analytics solutions that help you see you beyond the data. Our decades-long experience in data-centric solutions helps companies to make most of the data, empowering businesses to improve the decision-making process based on the intelligent interpretation of data. Our Business Intelligence services include BI reporting, dashboarding, data warehousing, smart analytics, custom data visualization, and BI consulting to improve overall business performance.</p>
+				<p>SPEC INDIA offers a range of enterprise-level business intelligence and analytics solutions that help you see you beyond the data. Our decades-long experience in data-centric solutions helps companies to make most of the data, empowering businesses to improve the decision-making process based on the intelligent interpretation of data.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -39,7 +39,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/python.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/python.jpg %}" alt="" style="box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border-radius: 25px;" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -55,7 +55,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/flutter.png %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/flutter.png %}" alt="" style="box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border-radius: 25px;" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -71,7 +71,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/software247.png %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/software247.png %}" alt="" style="box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border-radius: 25px;" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
